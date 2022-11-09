@@ -95,7 +95,7 @@ section h2{
 	font-size:80px;
 	font-weight:600;
 	text-align: center;
-	background: url(../borderBlack.png) repeat-x 0 50%;
+	background: url(borderBlack.png) repeat-x 0 50%;
 	background-size: 1px 1px;
 }
 
@@ -168,7 +168,7 @@ section h2 span {
 }
 
 #sec04_02{
-	background: url(../sado hangiri.jpeg) no-repeat 100% 100% fixed;
+	background: url(sado hangiri.jpeg) no-repeat 100% 100% fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
